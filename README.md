@@ -5,7 +5,7 @@
 
 >Relógio Dinâmico
 
-[Clique aqui para acessar](https://emanueldinizz/github.io/dinamic-clock)
+[Clique aqui para acessar](https://emanueldinizz.github.io/dinamic-clock)
 
 ## 🖥️ Tecnologias
 
